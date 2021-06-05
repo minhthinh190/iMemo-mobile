@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85680822767",
+    "project_id": "imemo-mobile",
+    "storage_bucket": "imemo-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85680822767:android:876cd6b988a3302cc57e1a",
+        "android_client_info": {
+          "package_name": "com.example.imemo_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85680822767-bd2ghch42s1o03firlgl1idh4he5l2ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHNweYZH1bitOYInbYKkUNwC6AnPXzSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85680822767-bd2ghch42s1o03firlgl1idh4he5l2ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
